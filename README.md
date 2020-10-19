@@ -1,7 +1,7 @@
 # Groceries_shopping_behavior_project
 
-• Use MySQL to extract information from a huge database of 50 million rows
+• Extracted information with MySQL from a huge database of 50 million rows
 
-• Conduct data analysis including household behavior analysis and groceries shopping analysis
+• Conducted data analysis including household behavior analysis and groceries shopping analysis
 
-• Visualize the information using Python Matplotlib
+• Visualized the information using Python Matplotlib
